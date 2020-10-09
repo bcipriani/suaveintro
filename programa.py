@@ -1,2 +1,2 @@
-print ("Hello\nworld!")
-print ("Ola Mundo!")
+palavras = ["hello", "world!"]
+print ("\n".join(palavras))
